@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritikvishnoi16" target="blank"><img src="https://img.shields.io/twitter/follow/ritikvishnoi16?logo=twitter&style=for-the-badge" alt="ritikvishnoi16" /></a> </p>
 
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning about **LLMs**
 
 - 💬 Ask me about **Machine Learning, AI and MERN Stack**
 
