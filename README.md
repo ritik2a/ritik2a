@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning about **LLMs**
 
-- 💬 Ask me about **Machine Learning, AI and MERN Stack**
+- 💬 Ask me about: **Machine Learning, AI and MERN Stack**
 
-- 📫 How to reach me **ritikvishnoi872@gmail.com**
+- 📫 How to reach me:  **ritikvishnoi872@gmail.com**
   
-- 💬 Fun fact **I am passionate about solving real-world problems with the help of Technology**
+- 💬 Fun fact: **I am passionate about solving real-world problems with the help of Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
