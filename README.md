@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">A passionate Full-Stack Developer and an Evid Coder</h3>
-<img align="right" alt="Coding" width="400" src="<a href="https://www.flaticon.com/free-stickers/coding" title="coding stickers">Coding stickers created by kerismaker - Flaticon</a>">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/de65c022-b600-40fd-bb2c-6494ee1680cc)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik2a&label=Profile%20views&color=0e75b6&style=flat" alt="ritik2a" /> </p>
 
